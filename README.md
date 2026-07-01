@@ -2,7 +2,7 @@
   
 ### <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"> Hi there 
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=640&lines=%F0%9F%93%9D+Current+Project%3A+Portfolio+Website+-+Windows+7;%E2%9A%A1+Current+Status%3A+Vibe+Coding;%F0%9F%A7%A0+Now+Learning%3A+AI+Engineering" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=640&lines=%F0%9F%93%9D+Current+Project%3A+Windows+7+Web+OS;%E2%9A%A1+Current+Status%3A+Vibe+Coding;%F0%9F%A7%A0+Now+Learning%3A+AI+Engineering" alt="Typing SVG"/>
 
 <a href="https://cadeduncan.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-cadeduncan.com-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio link"/></a>
 <a href="https://www.linkedin.com/in/cade-duncan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin link"/></a>
